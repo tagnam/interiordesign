@@ -1,0 +1,22 @@
+@media (max-width: 575.98px) {
+
+.header-top-menu-row-001{
+    display: none;
+}
+
+.header-container{
+    padding: 50px  10px;
+}
+.header-container-left h1{
+    font-size: 38px;
+}
+
+.header-card {
+    padding: 10px;
+    border-top-left-radius: unset;
+   border-top-right-radius: 40px;
+    height: 30vh;
+    margin: unset !important;
+}
+
+}

@@ -1,0 +1,61 @@
+@media (max-width: 575.98px) {
+
+    section {
+        margin: 50px 0px;
+        overflow: hidden;
+    }
+.header-top-menu-row-001{
+    display: none;
+}
+
+.navbar-brand {
+    width: 75% !important;
+}
+.header-container{
+    padding: 50px  10px;
+}
+.header-container-left h1{
+    font-size: 38px;
+}
+
+.header-card {
+    padding: 10px unset;
+   border-top-right-radius: unset;
+   border-top-left-radius: unset;
+    /* height: 30vh; */
+    margin: unset !important;
+}
+.hours-call-card {
+    display: contents;
+}
+
+.main-heading {
+    font-size: 25px;
+}
+.left-team-image-001 img {
+  
+    height: 265px;
+    width: 230px !important;
+}
+
+.left-team-image-002 img {
+
+    height: 200px;
+    width: 200px !important;
+    ma
+}
+.over-lay-content {
+    
+    top: 0%;
+    width: 200px;
+}
+.left-team-image-002 {
+  
+    right: -30%;
+   
+}
+.work-container {
+    grid-template-columns: unset;
+}
+
+}
